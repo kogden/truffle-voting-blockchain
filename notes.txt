@@ -1,0 +1,3 @@
+notes.txt
+
+reads on the blockchain are free, but writes on the blockchain cost *gas*
